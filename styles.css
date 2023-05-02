@@ -1,0 +1,12 @@
+#home {
+  background: url("assets/img1.jpg") rgba(0, 0, 0, 0.7);
+  background-blend-mode: overlay;
+  min-height: 550px;
+  background-size: cover;
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  text-transform: uppercase;
+}
+.bth:hover {
+  color: white;
+}
