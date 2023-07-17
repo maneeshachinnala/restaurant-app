@@ -1,0 +1,8 @@
+node
+{
+    stage('Continuous Download') 
+	{
+    git 'https://github.com/maneeshachinnala/restaurant-app.git'
+	}
+    
+}
